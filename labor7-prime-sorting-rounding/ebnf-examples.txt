@@ -1,0 +1,21 @@
+Beispiele für X:
+1. ε (leeres Wort)
+2. aba
+3. abaa
+4. abaaba
+5. abaaabaa
+
+Beispiele für Y:
+1. c
+2. aba
+3. abab
+4. babab
+5. acbabab
+
+
+Beispiele für Z:
+1. [aba][c]
+2. [ab][bab]
+3. [abaaabaa][ab]
+4. [a][c]
+5. [ab][aba]
